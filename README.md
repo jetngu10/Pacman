@@ -2,7 +2,7 @@
 
 A lightweight Pac-Man clone built with Java Swing/AWT.
 
-![pacman-ss](https://github.com/user-attachments/assets/9f16553b-9092-4894-b740-b8903ed24fa9)
+![Pacman gameplay screenshot](docs/screenshot.png)
 
 ## Controls
 
@@ -14,8 +14,6 @@ A lightweight Pac-Man clone built with Java Swing/AWT.
 ## How to run
 
 ### VS Code (recommended)
-
-This repo is set up for the VS Code Java extension:
 
 - Install the Java extensions (e.g., Java Extension Pack)
 - Open this folder in VS Code
@@ -56,7 +54,3 @@ If you see `Missing resource: wall.png`, make sure assets are on the classpath (
 - `src/pacman/ui/PacManPanel.java`: Swing panel + game loop + keyboard input
 - `src/pacman/game/PacManGame.java`: core gameplay, maps, rendering, collisions
 - `src/assets/images`: sprites
-
-## Credit
-
-Based on this coding tutorial: https://youtu.be/lB_J-VNMVpE
